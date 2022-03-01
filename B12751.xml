@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation concerning starch.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1607</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12751</idno>
+            <idno type="STC">STC 8404</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[76]</idno>
+            <idno type="EEBO-CITATION">99892011</idno>
+            <idno type="PROQUEST">ocm99892011</idno>
+            <idno type="VID">187172</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187172)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[76])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation concerning starch.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Announcing a commission to control manufacture of starch.</note>
+                  <note>Dated at end: Salisbury the 23. day of August, in the fifth yeere of our reigne ... .</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Starch industry --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:187172:1" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> A Proclamation concerning Starch.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is not vnknowen to moſt of our louing Subiects, That in the time</hi> of the late Queene of famous memory, the making of Starch within this Realme of England, being a thing newly taken vp, and growen in few yeeres very frequent, and to be much vſed, the inconuenience thereof was found to bee ſo great, by the waſting and conſuming of Corne fit for peoples food, That many Proclamations were then made from time to time, for the repreſſing and vtter aboliſhing of the ſame. Howbeit, after<g ref="char:EOLhyphen"/>wards ſome particular perſons, hauing procured a ſpeciall Licenſe, aſwell for the ma<g ref="char:EOLhyphen"/>king of Starchwithin the Realme, as alſo for bringing in the ſame from Forreigne parts, the libertie of the Subiect was ſo preiudiced, by reducing of that into few mens power, which in the Common libertie of the Subiect was free to all, That much offence did ariſe thereby, Inſomuch as the ſaid Graunt, being afterwards by her, in fauour to the Subiects, taken away vpon the Complaints of the grie<g ref="char:EOLhyphen"/>uance ariſing thereby, and the making of that ſtuffe within this Realme being then left to the libertie of all men to vſe it at their pleaſure, the ſame hath euer ſithence bene continued in many places of this Realme. In which ſmall time of continuance, it falleth out by experience, that the Toleration thereof to bee made here, is accompanied with ſo much of<g ref="char:EOLhyphen"/>fence to our people, as we perceiue by the Information which thereof we haue receiued, That her intent and purpoſe to repreſſe the making thereof, and to take away the inconuenience of the ſame, was not without good cauſe &amp; iuſt ground. For it appeareth by collection gathered, That the waſte of Corne ſpent and conſumed in the making of this Stuffe in moſt places of this our Realme, is ſo exceſſiue, as it is not fit to be ſpared from peoples Food, to ſerue in ſo vaine and ſlen<g ref="char:EOLhyphen"/>der an vſe; For that it cannot be, but the ſpending thereof in Starch (eſpecially in times wherein the plentie of Corne ſhall not be very abundant) muſt needs encreaſe both the ſcarcitie, and the prices thereof, aboue that which is fit to be ſuf<g ref="char:EOLhyphen"/>fered. And further it appeareth by the Complaints and Certificats, to Vs and our Councell ſent from diuers Iuſtices of the Peace of ſeuerall parts, (eſpecially about our City of London, and the Counties neere adioyning) That the ma<g ref="char:EOLhyphen"/>king thereof is not without exceeding annoyance to the people dwelling neere the places where it is made, by reaſon of the noyſome ſtench, and vnſauourie ſmells ariſing of and by the ſame: which breeding infectious aires, cannot but en<g ref="char:EOLhyphen"/>creaſe moſt contagious Sickneſſes and diſeaſes, eſpecially in theſe times of common Infection: A danger fit to be preuen<g ref="char:EOLhyphen"/>ted, in that prouidence which we owe to the welfare of our people, as in euery part of the Realme generally, ſo eſpecially in our City of London, being our Chamber, the ordinary place of our abode for the beſt part of the yeere, and of the reſort of all ſorts of our Subiects for their neceſſary affaires.</p>
+            <p>Which incommodities, hauing bene by Vs, with the aduice of our Councell, throughly conſidered, Wee had a determi<g ref="char:EOLhyphen"/>nation for the redreſſe thereof, and for the policie of our Realme, vtterly to take away the making of Starch within it, of what Stuffe, or vnder what pretence ſoeuer. Neuertheleſſe, vpon the humble ſuit of a great number of our louing Sub<g ref="char:EOLhyphen"/>iects lately made vnto Vs, it being apparant, that the vtter aboliſhing and taking away thereof, would be a great hinde<g ref="char:EOLhyphen"/>rance to them in their trades, and bereaue many of them of the meanes of their neceſſary liuing and maintenance; And being likewiſe enformed, that there may well be ſpared, both in our City of London, Weſtminſter, and other the great Ci<g ref="char:EOLhyphen"/>ties and Townes of the Realme, great quantities of Branne, and other ſuch courſer Stuffes, of which the beſt and fineſt Starch is vſually made; We, tendering the good and benefit of our ſaid Subiects, and being wel pleaſed, in our Prince<g ref="char:EOLhyphen"/>ly care and deſire of the Publike good, to yeeld vnto them the libertie and free vſe of their needfull Trades, and of all due and conuenient meanes of their neceſſary maintenance, And yet holding it as fit and needfull to prouide for the redreſſe of all abuſes and inconueniences, growing both by the needleſſe waſting of the ſtore of Corne within our Realme, and alſo by the publike annoyance and offence giuen vnto our Subiects, by the noyſome making of Starch in moſt places of our Kingdome as aforeſayd, Haue therefore, with the aduice of our Councell, thought it good to giue authoritie vnto cer<g ref="char:EOLhyphen"/>taine perſons of good qualitie and credite, by Commiſſion vnder our great Seale of England, from time to time to view and ſuruey, and allow all places and houſes within any part <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Kingdome, where any Starch is or ſhall be made,
+<pb facs="tcp:187172:2"/>and with the aſſiſtance of the Maior, or chiefe Magiſtrate of that place which ſhall be next adioyning to any ſuch place of Starch-making, to ſee that none be from henceforth made of Wheat, but onely of cleane Branne, and ſuch like courſer ſtuffe; And that none ſhal be made in any ſuch place, as may be to the iuſt annoyance and offence of our louing Subiects, but onely in ſuch places, and in ſuch order, as by the diſcretion and appointment of our ſayd Commiſſioners, and ſuch Magiſtrates next adioyning, ſhall be thought fit.</p>
+            <p>And to the end all men may thereof take knowledge, and may conforme themſelues thereunto accordingly, we haue thought it meet to publiſh our pleaſure herein by Proclamation, willing and commaunding all manner of perſons what<g ref="char:EOLhyphen"/>ſoeuer, that now doe or ſhal hereafter vſe the making of Starch within any place of this our Kingdome whereſoeuer, pre<g ref="char:EOLhyphen"/>ſently from henceforth to forbeare to make any more ſtarch of wheat, either whole, bruiſed, or groſſe grounden, or of meale, Rubbles, or any ſuch like ſtuffe. And we do alſo will &amp; co<g ref="char:cmbAbbrStroke">̄</g>mand all perſons whatſoeuer, to forbeare and ſurceaſe the ma<g ref="char:EOLhyphen"/>king of any ſtarch in any place or places of this our Realme of England whatſoeuer, except onely in ſuch places as by the view, allowance, and appointment of our ſayd Commiſſioners thereunto by vs to be ordayned, with the aſſiſtance of the Magiſtrates as aforeſayd, ſhalbe thought fit and conuenient, vpon paine not onely of the forfeiture of all ſuch Starch ſo made contrarie to our expreſſe will and pleaſure hereby ſignified, of which the one halfe ſhall be to the partie ſeizing the ſame, and the other halfe to Vs, our Heires and Succeſſors, but alſo to incurre ſuch further puniſhment as for their con<g ref="char:EOLhyphen"/>tempt in a matter tending ſo much to the good and benefite of our people, ſhall be thought fit to be inflicted vpon them.</p>
+            <p>And We doe alſo require all Iuſtices of peace, Maiors, Sheriffes, Bayliffes, Headboroughes, and all other our Offi<g ref="char:EOLhyphen"/>cers, Miniſters, and louing Subiects whatſoeuer, that they be from time to time ayding and aſſiſting to our ſayd Com<g ref="char:EOLhyphen"/>miſſioners, or ſuch perſon or perſo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s as ſhall be by them deputed and appointed to ſee this our Ordinance executed, and that they be carefull euerie one within his charge to cauſe this our pleaſure to bee obeyed, and to interrupt and ſuppreſſe all perſons who ſhall attempt to make any Starch otherwiſe, or in any other places then ſuch as ſhall be ſo allowed and appointed as aforeſayd, after the publiſhing of this our pleaſure to the contrarie. And alſo to ſeize their ſtuffe, or to diſ<g ref="char:EOLhyphen"/>poſe and deſtroy the ſame as things noyſome and offenſiue to all our people. And for the doing thereof, theſe ſhall bee to you and euerie of you a ſufficient Warrant.</p>
+            <p>And furthermore for Vs, our Heires and Succeſſors we will and commaund, That all perſons now vſing to make Starch in any part of this our Realme of England, hauing a deſire to continue the ſame, of Branne and Pollard onely, vpon the publiſhing of this our Proclamation, if they dwell within fortie miles of our Citie of London, vpon the laſt day of September next enſuing, and if their dwelling be further off, then vpon the laſt day of October now next follow<g ref="char:EOLhyphen"/>ing ſhall make their repaire, or cauſe their names to be giuen and ſent vp in writing vnto our ſayd Commiſſioners, at the Fownders Hall in London, together with a Certificate from ſome Iuſtice of peace, or from the Maior, or chiefe Magi<g ref="char:EOLhyphen"/>ſtrate of the Citie, Towne, or place in or neere where their dwelling is, ſignifying thereby their deſire and intent to con<g ref="char:EOLhyphen"/>tinue the making of Starch as aforeſayd, to the intent our ſayd Commiſſioners may take order for the ſame according to our pleaſure hereby ſignified and expreſſed. And if any perſon or perſons now vſing to make Starch ſhall neglect, or refuſe to make their repaire, or to giue vp his or their names with ſuch Certificate in writing, ſo ſignifying his or their de<g ref="char:EOLhyphen"/>ſire, and intent to continue the making of Starch as aforeſayd, Our will and pleaſure is, that all and euerie ſuch per<g ref="char:EOLhyphen"/>ſon and perſons ſhall for euer after be depriued of the libertie to make any Starch of any ſtuffe whatſoeuer.</p>
+            <closer>
+               <dateline>Giuen at Salisbury <date>the 23. day of Auguſt, in the fifth yeere of our Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/> 
+               <hi>God ſaue the King.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie. ANNO DOM. 1607.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
